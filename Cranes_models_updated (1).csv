@@ -1,0 +1,36 @@
+Model,Type of Crane,Maximum_Load_Capacity (tons),Maximum_Boom_Length(meters),Radius,Wind Tolerance,Speed
+XGC88000,Crawler crane,3600,120,26.34,23.9,8.5
+XLC 220,Crawler crane,220,83,29.96,25.9,3.5
+XCR120,Rough terrain crane,120,50,44.32,18.97,9.44
+XCT50Y,Telescopic crane,50,43.3,34.31,21.61,3.17
+XGC45,Crawler crane,45,37,48.45,22.85,3.28
+ZTC1100R,Telescopic crane,121,58.5,32.51,22.07,5.1
+ZCT900V,Crawler crane,90,47,48.91,29.84,5.62
+ZRT600E532,Rough terrain crane,66,45,33.41,16.43,7.68
+ZRT400V432,Rough terrain crane,44,33,48.92,15.67,6.14
+R370-20RB,Tower crane,20,80,23.52,27.17,6.26
+CAL 64000,Floating crane,1200,108,45.27,18.11,4.66
+LTM 1750-9.1,Telescopic crane,800,52,32.81,19.7,7.43
+LR 1110,Crawler crane,110,71,36.73,27.63,6.28
+LRT 1090-2.1,Rough terrain crane,90,47,41.11,25.79,6.53
+85 EC-B 5 FR,Tower crane,5.5,40,32.45,24.14,5.42
+SM1208 (M3 Duty Class),Overhead crane,200,60,23.76,28.61,6.41
+R-1 Rotating portal woodyard crane,Overhead crane,14,61,43.26,24.65,8.06
+LB-1 Log boom woodyard crane,Overhead crane,14,56,36.46,21.76,6.51
+CXT Gantry crane,Overhead crane,12.5,48,43.98,16.87,7.08
+CXT Explorer,Overhead crane,5,5,46.14,20.62,7.35
+SCE1350A-EV,Crawler crane,135,76,23.43,26.19,3.12
+STC600C5,Telescopic crane,60,45.5,28.66,19.86,3.55
+SFT1100 (T80108-50),Tower crane,50,11,37.79,16.35,7.45
+SRC500T,Rough terrain crane,50,45,37.25,21.63,6.8
+SPS8000,Truck-mounted crane,3.6,10.4,34.25,22.5,9.53
+AC 9.700-1,Telescopic crane,800,60,34.37,25.74,7.02
+GTC-1600,Crawler crane,160,61,47.02,17.14,7.16
+AC 3.055-1,Telescopic crane,60,50,26.95,17.95,4.09
+GTC-550,Crawler crane,55,34.5,48.93,21.83,8.5
+GR-350XL,Rough terrain crane,35,31,38.61,18.97,6.32
+PK 135.002 TEC7,Truck-mounted cranes,33.1,34.7,43.31,19.99,4.11
+PK78002 SH High Performance,Truck-mounted cranes,27.6,25.1,46.82,15.37,8.5
+PK32080,Truck-mounted cranes,9.4,24.9,35.34,20.4,3.67
+PK7.501 SLD5,Truck-mounted cranes,3.6,12.9,42.51,18.6,3.1
+PC I500 Compact,Truck-mounted cranes,1.1,4.2,45.55,24,5.97
