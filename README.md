@@ -1,7 +1,10 @@
 #  CraneBrain – Industrial Crane Safety AI Platform
 
 CraneBrain is an advanced AI-powered safety and risk analysis system for industrial lifting operations.  
-It predicts risk using **XGBoost ML models**, ensures **HSE 2025 compliance**, and generates **optimal crane configurations** for safe and efficient lift planning.
+It predicts risk using **ML models**, ensures **HSE 2025 compliance**, and generates **optimal crane configurations** for safe and efficient lift planning.  
+
+CraneBrain is currently in an **active development phase**.  
+We are continuously upgrading the platform with new ML features, enhanced safety modules, and real-time crane simulation tools.
 
 ---
 
