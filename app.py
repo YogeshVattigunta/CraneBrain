@@ -6,11 +6,11 @@ import os
 app = Flask(__name__)
 
 # Load crane data from local CSV file (Change this to your actual file path)
-LOCAL_CSV_PATH = "C:\\Users\\Yogesh V\\Downloads\\Cranes_models_updated (1).csv"  # Update this path
+LOCAL_CSV_PATH = "Replace it with the path "  # Update this path
 crane_df = pd.read_csv(LOCAL_CSV_PATH)
 
 # Set up Gemini API (Replace with your API key)
-GEMINI_API_KEY = "AIzaSyAQOKTy2c7e2vglCvF1zpDv9lUYgvdTn2w"
+GEMINI_API_KEY = "Replace with Gemini API"
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel("gemini-1.5-pro")
 
